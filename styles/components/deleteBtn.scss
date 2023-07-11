@@ -1,0 +1,21 @@
+.delete-btn {
+    margin-left: 5px;
+    width: 90px;
+    height: 30px;
+    cursor: pointer;
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.15);
+    background: #f40404;
+   }
+   
+   
+   .delete-btn:hover {
+    background: #df9b9b;
+   }
+   
+   .delete-btn:focus {
+    outline: none;
+   }
+   

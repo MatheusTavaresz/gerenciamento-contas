@@ -1,0 +1,19 @@
+{
+  "transactions": [
+    {
+      "name": "Carrinho Churrasqueira Até 80 Espetinhos",
+      "amount": -500,
+      "id": 1
+    },
+    {
+      "name": "Kit Churrasco p/ 80 pessoas",
+      "amount": -2400,
+      "id": 2
+    },
+    {
+      "name": "Fardo Heinnekein 50 UN.",
+      "amount": -1550,
+      "id": 3
+    }
+  ]
+}

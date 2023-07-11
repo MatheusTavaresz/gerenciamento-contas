@@ -1,0 +1,50 @@
+main{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+}
+
+#transactions{
+    display: flex;
+    flex-direction: column;
+}
+
+.transaction{
+
+}
+
+#balanceContainer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+
+section{
+    margin-top: 50px;
+    font-size: 30px;
+    display: flex;
+    gap: 50px;
+    text-align: center;
+}
+
+    .transaction-title{
+        color: red;
+        text-align: center;
+    }
+
+.transaction-amount{
+    text-align: center;
+    word-spacing: 5px;
+}
+
+#elementsCtn{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+

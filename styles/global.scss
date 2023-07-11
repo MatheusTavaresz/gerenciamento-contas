@@ -1,0 +1,17 @@
+@import './components/header.scss';
+@import './components/fonts.scss';
+@import './components/main.scss';
+@import './components/buttons.scss';
+@import './components/deleteBtn.scss';
+@import './components/editBtn.scss';
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
